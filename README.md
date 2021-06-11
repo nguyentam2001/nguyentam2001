@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nguyentam2001&color=blue)
 # Tam Nguyen Van
-I am a fun and sociable person but serious at work. When you have difficulties, you can find me to share, I am always ready to listen, help and share with you.
+//comment
 - 🔭 I’m currently working on HaUI - Hanoi University of Industry.
 - 💬 I am learning and developing on Android platform. Going forward, I plan to learn more Flutter and React Native framework.
 ## Design and Development
